@@ -1,3 +1,3 @@
 # YOYO blog
 Some changes
-theme: minima
+theme:minima
