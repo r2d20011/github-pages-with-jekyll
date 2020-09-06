@@ -1,2 +1,2 @@
 # YOYO blog
-I'm glad you are here. I plan to talk about ...
+Like a boss
